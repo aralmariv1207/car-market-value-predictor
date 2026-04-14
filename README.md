@@ -1,5 +1,7 @@
 # car-market-value-predictor
 
+A numerical methods-based predictive model for car market valuation using Gradient Boosting (LightGBM) and Random Forest. Optimized for prediction speed, training time, and RMSE accuracy.
+
 ### 🚀 Technical Highlights
 
 * **Numerical Methods Expertise**: Conducted a rigorous comparison of **LightGBM**, **Random Forest**, and **Linear Regression** architectures to determine the optimal trade-off between **RMSE accuracy** and **computational overhead**.
