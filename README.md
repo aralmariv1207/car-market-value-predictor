@@ -1,8 +1,10 @@
-# car-market-value-predictor
+# Rusty Bargain: Car Market Value Predictor
+
+## About 
 
 A numerical methods-based predictive model for car market valuation using Gradient Boosting (LightGBM) and Random Forest. Optimized for prediction speed, training time, and RMSE accuracy.
 
-### 🚀 Technical Highlights
+## 🚀 Technical Highlights
 
 * **Numerical Methods Expertise**: Conducted a rigorous comparison of **LightGBM**, **Random Forest**, and **Linear Regression** architectures to determine the optimal trade-off between **RMSE accuracy** and **computational overhead**.
 * **Optimization for Real-Time Systems**: Focused on minimizing **prediction latency** and **training time**, ensuring the model meets the high-speed requirements of a production used-car valuation app.
